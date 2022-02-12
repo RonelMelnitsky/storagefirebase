@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90118730499",
+    "project_id": "storagefirebase-aef62",
+    "storage_bucket": "storagefirebase-aef62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90118730499:android:486a2ccec41526b4db2f36",
+        "android_client_info": {
+          "package_name": "com.example.storagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90118730499-d1mn2e0lhnn01m6sl8lo7clhu7bvv5tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALiLsGDWXEXzEkSShMQKwSamw1XTXxM2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90118730499-d1mn2e0lhnn01m6sl8lo7clhu7bvv5tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
